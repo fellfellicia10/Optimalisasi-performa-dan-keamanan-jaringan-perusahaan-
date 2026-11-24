@@ -14,3 +14,6 @@ Seiring berkembangnya teknologi informasi, kebutuhan perusahaan terhadap jaringa
 VLAN (Virtual Local Area Network): Membagi jaringan menjadi beberapa segmen berdasarkan fungsi, departemen, atau tingkat keamanan.
 QoS (Quality of Service): Mengatur prioritas lalu lintas jaringan agar aplikasi penting memperoleh bandwidth dan kualitas layanan yang sesuai.
 Zero-Trust Access: Menerapkan prinsip bahwa setiap pengguna dan perangkat harus diverifikasi sebelum diberikan akses ke sumber daya perusahaan.
+
+
+# 🍙 Topologi 
