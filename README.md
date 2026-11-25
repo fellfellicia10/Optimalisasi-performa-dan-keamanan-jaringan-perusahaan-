@@ -11,9 +11,19 @@ Seiring berkembangnya teknologi informasi, kebutuhan perusahaan terhadap jaringa
 - Kurangnya pengawasan aktivitas jaringan: Perusahaan kesulitan mengetahui siapa yang mengakses jaringan, perangkat apa yang digunakan, dan sumber aktivitas yang mencurigakan.
 
 - # 🥝 Untuk mengatasi permasalahan tersebut, perusahaan dapat menerapkan tiga teknologi utama, yaitu:
-VLAN (Virtual Local Area Network): Membagi jaringan menjadi beberapa segmen berdasarkan fungsi, departemen, atau tingkat keamanan.
-QoS (Quality of Service): Mengatur prioritas lalu lintas jaringan agar aplikasi penting memperoleh bandwidth dan kualitas layanan yang sesuai.
-Zero-Trust Access: Menerapkan prinsip bahwa setiap pengguna dan perangkat harus diverifikasi sebelum diberikan akses ke sumber daya perusahaan.
+- VLAN (Virtual Local Area Network): Membagi jaringan menjadi beberapa segmen berdasarkan fungsi, departemen, atau tingkat keamanan.
+- QoS (Quality of Service): Mengatur prioritas lalu lintas jaringan agar aplikasi penting memperoleh bandwidth dan kualitas layanan yang sesuai.
+- Zero-Trust Access: Menerapkan prinsip bahwa setiap pengguna dan perangkat harus diverifikasi sebelum diberikan akses ke sumber daya perusahaan.
 
 
 # 🍙 Topologi 
+
+# 🌻 perangkat yang akan di konfigurasi
+- 5 switch
+- 2 router
+# 🥞 Total perangkat yang ada di topologi tersebut
+- 5 switch
+- 2 router
+- 4 pc
+- 2 laptop
+- 3 server
