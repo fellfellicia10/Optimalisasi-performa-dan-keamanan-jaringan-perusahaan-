@@ -17,6 +17,7 @@ Seiring berkembangnya teknologi informasi, kebutuhan perusahaan terhadap jaringa
 
 
 # 🍙 Topologi 
+<img width="609" height="322" alt="image" src="https://github.com/user-attachments/assets/46442ccf-8e36-4d4a-846a-0698f33b9055" />
 
 # 🌻 perangkat yang akan di konfigurasi
 - 5 switch
